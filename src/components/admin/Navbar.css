@@ -1,0 +1,10 @@
+.n-name{
+    color: rgb(193, 69, 204);
+    font-size: 40px;
+    font-style: inherit;
+    font-weight: 800px;
+  }
+
+  .container-fluid{
+    color: blueviolet;
+  }

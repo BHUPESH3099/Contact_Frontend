@@ -1,0 +1,22 @@
+
+.button{
+    border-radius: 10px;
+    margin: 1rem;
+    background-color: rgb(197, 126, 245);
+    color: blue;
+    height: 50px;
+    width: 100px;
+}
+
+.button:hover{
+    background-color: rgb(191, 138, 240);
+}
+
+.n-name{
+    color: rgb(52, 8, 247);
+    font-size: 40px;
+    font-style: unset;
+  }
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(233, 88, 88, 0.55);
+}
